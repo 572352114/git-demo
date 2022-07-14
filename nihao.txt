@@ -8,3 +8,4 @@ asdfghjkl   222222
 123456 master
 asdfghjkl   \/\/\/
 123456 hot-fix
+123456 git-text
